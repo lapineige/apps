@@ -731,9 +731,9 @@
     },
     "shaarli": {
         "branch": "master",
-        "revision": "f1c145b1d101fd355f08447976837092b27737fd",
-        "state": "inprogress",
-        "url": "https://github.com/julienmalik/shaarli_ynh"
+        "revision": "0293bf1b1b291ebf0325e37490bc9bb52c574846",
+        "state": "working",
+        "url": "https://github.com/YunoHost-Apps/shaarli_ynh"
     },
     "shout": {
         "branch": "master",
