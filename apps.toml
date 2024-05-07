@@ -2074,9 +2074,9 @@ url = "https://github.com/YunoHost-Apps/linkstack_ynh"
 
 [linkwarden]
 category = "publishing"
+potential_alternative_to = [ "Shaarli", "Wallabag" ]
 state = "working"
 url = "https://github.com/YunoHost-Apps/linkwarden_ynh"
-potential_alternative_to = [ "Shaarli", "Wallabag" ]
 
 [linuxdash]
 added_date = 1674232499 # 2023/01/20
